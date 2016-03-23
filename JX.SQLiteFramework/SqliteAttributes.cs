@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace SQLiteFramework
+namespace JX.SQLiteFramework
 {
 	public class SqliteColumnAttribute : Attribute
 	{

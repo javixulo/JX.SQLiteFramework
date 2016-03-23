@@ -7,8 +7,8 @@
     <ProjectGuid>{EE5F315B-9D4D-4D5F-8BE3-57796B45997C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SQLiteFramework</RootNamespace>
-    <AssemblyName>SQLiteFramework</AssemblyName>
+    <RootNamespace>JX.SQLiteFramework</RootNamespace>
+    <AssemblyName>JX.SQLiteFramework</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="JXWPFToolkit">
-      <HintPath>Depends\JXWPFToolkit.dll</HintPath>
+    <Reference Include="JX.WPFToolkit">
+      <HintPath>Depends\JX.WPFToolkit.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />

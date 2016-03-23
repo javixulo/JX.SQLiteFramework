@@ -6,9 +6,9 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Windows.Controls;
-using JXWPFToolkit.Controls;
+using JX.WPFToolkit.Controls;
 
-namespace SQLiteFramework
+namespace JX.SQLiteFramework
 {
 	public abstract class SqliteObject
 	{
